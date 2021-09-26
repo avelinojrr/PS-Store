@@ -1,2 +1,2 @@
 # PS-Store
-Subir mi Primer Proyecto a Github
+Subí mi Primer Proyecto a Github
